@@ -25,7 +25,7 @@ A simple and interactive **Random Color Palette Generator** built with **HTML, C
 ---
 
 ## 📸 Preview
-![Random Color Palette Generator Screenshot](images/screenshot.png)
+![Random Color Palette Generator Screenshot](images/color-generator.png)
 
 Click the **Generate Color** button to create a new random palette.
 
